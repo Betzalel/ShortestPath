@@ -1,0 +1,28 @@
+Cairo=  30:2:39 N 31:14:8 E |Cape Town=  33:55:29 S 18:25:26 E
+Cairo=  30:2:39 N 31:14:8 E |Lagos=  6:27:11 N 3:23:45 E
+Lagos=  6:27:11 N 3:23:45 E |Cape Town=  33:55:29 S 18:25:26 E
+Lagos=  6:27:11 N 3:23:45 E |Birmingham=  52:20:10 N 1:53:25 E
+Cape Town=  33:55:29 S 18:25:26 E |Luanda=  8:50:18 S 13:14:4 E
+Cape Town=  33:55:29 S 18:25:26 E |Mumbai=  19:4:33 N 72:52:39 E
+Cape Town=  33:55:29 S 18:25:26 E |Perth=  31:57:10 S 115:51:26 E
+Luanda=  8:50:18 S 13:14:4 E |Houston=  29:45:36 N 95:22:9 W
+Mumbai=  19:4:33 N 72:52:39 E |Birmingham=  52:20:10 N 1:53:25 E
+Mumbai=  19:4:33 N 72:52:39 E |Tokyo=  35:41:22 N 139:41:30 E
+Tokyo=  35:41:22 N 139:41:30 E |Los Angeles=  34:3:8 N 118:14:37 W
+Tokyo=  35:41:22 N 139:41:30 E |Lima=  12:2:52 S 77:3:43 W
+Tokyo=  35:41:22 N 139:41:30 E |Hobart=  32:52:54 S 147:19:25 E
+Perth=  31:57:10 S 115:51:26 E |Hobart=  32:52:54 S 147:19:25 E
+Hobart=  32:52:54 S 147:19:25 E |Auckland=  36:50:54 S 174:45:47 E
+Birmingham=  52:20:10 N 1:53:25 E |Chicago=  41:52:41 N 87:37:47 W
+Birmingham=  52:20:10 N 1:53:25 E |Paris=  48:51:23 N 2:21:8 E
+Paris=  48:51:23 N 2:21:8 E |Cayenne=  4:55:2 N 52:19:36 W
+Los Angeles=  34:3:8 N 118:14:37 W |Auckland=  36:50:54 S 174:45:47 E
+Los Angeles=  34:3:8 N 118:14:37 W |San Antonio=  29:25:26 N 98:29:37 W
+San Antonio=  29:25:26 N 98:29:37 W |Chicago=  41:52:41 N 87:37:47 W
+San Antonio=  29:25:26 N 98:29:37 W |Houston=  29:45:36 N 95:22:9 W
+Chicago=  41:52:41 N 87:37:47 W |Miami=  25:47:20 N 80:13:35 W
+Miami=  25:47:20 N 80:13:35 W |Guayaquil=  2:12:13 S 79:53:50 W
+Miami=  25:47:20 N 80:13:35 W |Buenos Aires=  34:36:13 S 58:22:53 W
+Guayaquil=  2:12:13 S 79:53:50 W |Buenos Aires=  34:36:13 S 58:22:53 W
+Lima=  12:2:52 S 77:3:43 W |Buenos Aires=  34:36:13 S 58:22:53 W
+Cayenne=  4:55:2 N 52:19:36 W |Rio de Janeiro=  22:54:12 S 43:12:34 W
